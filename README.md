@@ -24,7 +24,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
-![Unified Modeling Language](https://img.shields.io/badge/Unified_Modeling_Language-red.svg?style=for-the-badge&logo=Unified_Modeling_Language&logoColor=white)
+![UML](https://img.shields.io/badge/Unified_Modeling_Language-red.svg?style=for-the-badge&logo=Unified_Modeling_Language&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
