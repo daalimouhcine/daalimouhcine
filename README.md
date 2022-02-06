@@ -22,6 +22,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ## Frameworks, Platforms and Libraries
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%4318B2AC.svg?style=for-the-badge&logo=bootstrap)
 <!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
 ![webpack](https://badges.aleen42.com/src/webpack.svg)
