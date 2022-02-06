@@ -37,7 +37,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 <!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 ## Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg?style=for-the-badge&logo=photoshop)
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 ## Version Control
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
