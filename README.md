@@ -45,11 +45,8 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) -->
 ## Education
-<div style="display:inline; background:white;">
-  <a href='https://youcode.ma/' target="_blank">
-    <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:70px;' ></img>
-  </a>
-</div>
+
+[![youcode](https://avatars.githubusercontent.com/u/77738171?s=200&v=4)](https://youcode.ma/)
 
 ![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
