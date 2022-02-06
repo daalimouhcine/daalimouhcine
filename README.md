@@ -46,7 +46,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) -->
 ## Education
 <div style="display:inline; background:white;">
-  <a href='https://youcode.ma/' target='_blank'>
+  <a href='https://youcode.ma/' target="_blank">
     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:70px;' ></img>
   </a>
 </div>
