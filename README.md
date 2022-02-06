@@ -48,7 +48,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 
 <div>
    <a href='https://youcode.ma/'>
-     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:80px'>
+     <img src='https://avatars.githubusercontent.com/u/77738171?s=200&v=4' style='width:100px'>
   </a>
 </div>
 
