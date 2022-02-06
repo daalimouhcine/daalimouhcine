@@ -73,7 +73,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 - [Professional website for a company](https://co-ius.netlify.app/) - **Recommended** ✨
 - [Todo List app](https://daalimouhcine.github.io/Todo_List/) 
 
-## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg) 
+<!-- ## 📃 Latest IG Posts ![instagram](https://badges.aleen42.com/src/instagram.svg)  -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
