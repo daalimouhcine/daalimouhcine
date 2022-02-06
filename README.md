@@ -52,7 +52,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ## Hosting/SaaS
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23039BE5.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-blueviolet.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
 ## 🥳 Some of my projects
