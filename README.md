@@ -79,7 +79,6 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 <!-- - [What projects should i build as a frontend developer? ](https://www.instagram.com/p/CSCG9qvjIeN/)
 - [Did you ever asked yourself how much JS should i knew as a frontend developer ?](https://www.instagram.com/p/CRwEstCjVvf/)
 - [Should a frontend developer know DS&A ?](https://www.instagram.com/p/CRgnp-AjBd5/) -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤙🏻 You can reach out
