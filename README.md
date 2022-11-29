@@ -3,7 +3,7 @@
 
 # 🚀Hello Devs
 
-## 🍊 Mouhcine 's Github Profile
+## ❄ Mouhcine 's Github Profile
 I am Mouhcine, I’m a Full Stack developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
 I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with php/oop/mvc .
 <!-- I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code. -->
