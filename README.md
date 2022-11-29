@@ -16,7 +16,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 <h5>⭐️Languages and Tools</h5>
 
 ## Programming Languages
-![Jakarta](https://img.shields.io/badge/jakarta-c14438?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-c14438?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
