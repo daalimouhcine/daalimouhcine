@@ -1,17 +1,22 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=daalimouhcine&show_icons=true&theme=dracula">
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalimouhcine&show_icons=true&theme=dracula" /> -->
 
 # 🚀Hello Devs
 
 ## ❄ Mouhcine 's Github Profile
 I am Mouhcine, I’m a Full Stack developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
-I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with php/oop/mvc .
-<!-- I'm also a content creator influencer/Mentor on social media sharing tips and resources for learning how to code. -->
-You can check out some of my projects and if you got any questions you can reach out in the links below.  
+I learn fast and can adapt quickly to teamwork , I specialize in JavaScript/TypeScript and creating projects with Spring Boot .
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-mouhcine-daali.netlify.app/)
+
+- 💬 Ask me about **Web development**
+
+- 📫 How to reach me **the.daali.mouhcine@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://rxresu.me/the.daali.mouhcine/mouhcinedaaliresume)  
 
 ## 💫 What programming languages I like
 
-As a fullstack developer i prioritize most of my time for Javascript and php .
+As a fullstack developer i prioritize most of my time for TypeScript and Java .
   
 <h5>⭐️Languages and Tools</h5>
 
@@ -19,29 +24,37 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ![Java](https://img.shields.io/badge/Java-c14438?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-## Frameworks, Platforms and Libraries
-![React js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react.js&logoColor=blue)
-![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+## Frameworks, Platforms and Libraries
+![Angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=orange)
+![React](https://img.shields.io/badge/Reactjs-blue?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=redux&logoColor=purple)
+![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material](https://img.shields.io/badge/Material-ui-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material Ui](https://img.shields.io/badge/Material_Ui-white.svg?style=for-the-badge&logo=mui&logoColor=blue)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-323330?style=for-the-badge&logo=spring-boot&logoColor=green)
+![Laravel](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=laravel&logoColor=orange)
+
 ![Mysql](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
-![UML](https://img.shields.io/badge/UML-red.svg?style=for-the-badge&logo=UML&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+![PlantUML](https://img.shields.io/badge/PlantUML-red.svg?style=for-the-badge&logo=plantuml&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-lightgrey.svg?style=for-the-badge&logo=MVC&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux) 
-![webpack](https://badges.aleen42.com/src/webpack.svg)
-![npm](https://badges.aleen42.com/src/npm.svg) -->
+
 ## IDEs/Editors
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Intellij idea](https://img.shields.io/badge/Intellij-35495E?style=for-the-badge&logo=intellijidea&logoColor=orange)
 <!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 ## Design
 ![Figma](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 ## Version Control
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
@@ -63,7 +76,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ## Work/Jobs
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![Fiverr](https://img.shields.io/badge/Fiverr-6FDA44?style=for-the-badge&logo=fiverr&logoColor=white)
 <!-- ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) -->
 ## Hosting/SaaS
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
