@@ -6,7 +6,7 @@
 I am Mouhcine, I’m a Full Stack developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
 I learn fast and can adapt quickly to teamwork , I specialize in JavaScript/TypeScript and creating projects with Spring Boot .
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-mouhcine-daali.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-mouhcine-daali.netlify.app/) (old version)
 
 - 💬 Ask me about **Web development**
 
